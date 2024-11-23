@@ -21,7 +21,19 @@ graph LR
 
 ## 🔥 项目施工中
 
+### 💻 [DevPin](https://github.com/MindMorbius/DevPin)
+> 开发、分解、追踪、效率
 
+![Issues](https://img.shields.io/github/issues/MindMorbius/DevPin?style=for-the-badge&color=green)
+![Activity](https://img.shields.io/github/commit-activity/m/MindMorbius/DevPin?style=for-the-badge&color=purple)
+![LastCommit](https://img.shields.io/github/last-commit/MindMorbius/DevPin?style=for-the-badge&color=blue)
+
+### 🔍 [NodePin](https://github.com/MindMorbius/NodePin)
+> 一站式 | 订阅上传汇总分发
+
+![Issues](https://img.shields.io/github/issues/MindMorbius/NodePin?style=for-the-badge&color=green)
+![Activity](https://img.shields.io/github/commit-activity/m/MindMorbius/NodePin?style=for-the-badge&color=purple)
+![LastCommit](https://img.shields.io/github/last-commit/MindMorbius/NodePin?style=for-the-badge&color=blue)
 
 ### 🎵 [MusicPin](https://github.com/MindMorbius/MusicPin)
 > 音乐海 | 乐评交流站
@@ -29,13 +41,6 @@ graph LR
 ![Issues](https://img.shields.io/github/issues/MindMorbius/MusicPin?style=for-the-badge&color=green)
 ![Activity](https://img.shields.io/github/commit-activity/m/MindMorbius/MusicPin?style=for-the-badge&color=purple)
 ![LastCommit](https://img.shields.io/github/last-commit/MindMorbius/MusicPin?style=for-the-badge&color=blue)
-
-### 💻 [DevPin](https://github.com/MindMorbius/DevPin)
-> 开发、分解、追踪、效率
-
-![Issues](https://img.shields.io/github/issues/MindMorbius/DevPin?style=for-the-badge&color=green)
-![Activity](https://img.shields.io/github/commit-activity/m/MindMorbius/DevPin?style=for-the-badge&color=purple)
-![LastCommit](https://img.shields.io/github/last-commit/MindMorbius/DevPin?style=for-the-badge&color=blue)
 
 ### 🔍 [RKPin](https://github.com/MindMorbius/RKPin)
 > 内容汇集 | AI对话
